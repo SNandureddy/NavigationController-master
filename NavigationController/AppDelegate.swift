@@ -20,7 +20,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         UINavigationBar.appearance().tintColor = .green
         
         UINavigationBar.appearance().titleTextAttributes = [NSAttributedString.Key.foregroundColor:UIColor.yellow,  NSAttributedString.Key.font: UIFont.systemFont(ofSize: 20) ]
-        
+         
         return true
     }
 

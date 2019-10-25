@@ -13,7 +13,7 @@ class FourthViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        // Do any additional setup after loading the view.
+        // Do any add itional setup after loading the view.
        // let textAttributes = [NSAttributedString.Key.foregroundColor:UIColor.white,  NSAttributedString.Key.font: UIFont.systemFont(ofSize: 20) ]
         
        // navigationController?.navigationBar.titleTextAttributes = textAttributes

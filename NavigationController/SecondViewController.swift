@@ -36,7 +36,7 @@ class SecondViewController: UIViewController {
     }
     
     @IBAction func goToThirdViewController(_ sender: Any) {
-        let vc = self.storyboard?.instantiateViewController(withIdentifier: "ThirdViewController") as! ThirdViewController
+        let vc = self.storyboard?.instantiateViewController(withIdentifier: "ThirdViewController") as! ThirdViewController 
         self.navigationController?.pushViewController(vc, animated: true)
     }
     

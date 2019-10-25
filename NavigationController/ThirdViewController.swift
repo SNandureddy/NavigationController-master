@@ -16,7 +16,7 @@ class ThirdViewController: UIViewController {
 
         // Do any additional setup after loading the view.
        // let textAttributes = [NSAttributedString.Key.foregroundColor:UIColor.white,  NSAttributedString.Key.font: UIFont.systemFont(ofSize: 20) ]
-        
+         
       //  navigationController?.navigationBar.titleTextAttributes = textAttributes
         
         self.navigationController?.visibleViewController?.navigationItem.title = "Third VC"
